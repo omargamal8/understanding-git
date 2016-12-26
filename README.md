@@ -1,2 +1,0 @@
-# understanding-git
-practicing git
